@@ -1,0 +1,17 @@
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net6.0\ConsumindoApiAluno.exe
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net6.0\ConsumindoApiAluno.deps.json
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net6.0\ConsumindoApiAluno.runtimeconfig.json
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net6.0\ConsumindoApiAluno.dll
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net6.0\ConsumindoApiAluno.pdb
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.csproj.AssemblyReference.cache
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.AssemblyInfoInputs.cache
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.AssemblyInfo.cs
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.csproj.CoreCompileInputs.cache
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.csproj.CopyComplete
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.dll
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\refint\ConsumindoApiAluno.dll
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.pdb
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.genruntimeconfig.cache
+D:\Base_Api\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ref\ConsumindoApiAluno.dll
